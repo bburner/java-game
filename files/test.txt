@@ -1,0 +1,19 @@
+<s>::=<n> <vp> <do>
+<dpc>::=a
+
+<dpv>::=an
+<adjpc>::=<adjc>|<adjc> <adjpv>
+
+<adjpv>::=<adjv>|<adjv> <adjpc>
+<adjc>::=pop|surprise|difficult|challenging|horrible
+<adjv>::=important|awful
+<n>::=You
+
+<vp>::=<av>|<mv>
+<do>::=<dpc> <adjpc> <oc>|<dpv> <adjpv> <oc>|<dpc> <adjpc> <ov>|<dpv> <adjpv> <ov>|<dpv> <ov>|<dpc> <oc>
+<ov>::=exam|assessment
+<oc>::=test|quiz
+<av>::=have
+<mv>::=<m> <tv>
+<m>::=must
+<tv>::=take|pass

@@ -1,0 +1,17 @@
+<s>::=<np> <v>
+
+<np>::=<dp> <adjp> <n>|<pn>
+
+<dp>::=the|a
+
+<adjp>::=<adj>|<adj> <adjp>
+
+<adj>::=big|fat|green|wonderful|faulty|subliminal|pretentious
+
+<n>::=dog|cat|man|university|father|mother|child|television
+
+<pn>::=John|Jane|Sally|Spot|Fred|Elmo
+
+<vp>::=<tv> <np>|<iv>
+<tv>::=have
+<iv>::=died|collapsed|laughed|wept

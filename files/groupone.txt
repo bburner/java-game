@@ -1,0 +1,8 @@
+<s>::=<pn> <vp>
+<pn>::=I
+<vp>::=<tv> <o>|<iv>
+<tv>::=adore|love|enjoy
+<o>::=group projects|working with my new best friends
+<iv>::=<lv> <v>
+<lv>::=am
+<v>::=excited|thrilled|extactic

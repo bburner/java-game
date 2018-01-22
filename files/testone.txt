@@ -1,0 +1,15 @@
+<s>::=<tv> <pn> <pp>
+
+<np>::=<dp> <adjp> <n>|<pn>
+
+<dp>::=the|a
+
+<adjp>::=<adj>|<adj> <adjp>
+
+<adj>::=big|fat|green|wonderful|faulty|subliminal|pretentious
+
+<vp>::=<tv> <np>|<iv>
+<tv>::=complete|work|do
+<pn>::=it
+<iv>::=died|collapsed|laughed|wept
+<pp>::=on your own|by yourself|alone

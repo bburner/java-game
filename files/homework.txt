@@ -1,0 +1,18 @@
+<s>::=<pn> <vp> <do>
+<dpc>::=a
+
+<dpv>::=an
+<adjpc>::=<adjc>|<adjc> <adjpv>
+
+<adjpv>::=<adjv>|<adjv> <adjpc>
+<adjc>::=difficult|challenging|horrible|hellish
+<adjv>::=important|awful
+<pn>::=Josh
+<n>::=you
+
+<vp>::=<av> <n>|<v>
+<do>::=<dpc> <adjpc> <oc>|<dpv> <adjpv> <oc>|<dpc> <adjpc> <ov>|<dpv> <adjpv> <ov>|<dpv> <ov>|<dpc> <oc>
+<ov>::=application|assignment
+<oc>::=task|homework assignmet
+<av>::=gave
+<v>::=announced|assigned|handed out|demanded

@@ -1,0 +1,14 @@
+<s>::=<dp> <n> <tv> <pn> <o> <n2>
+<dp>::=A
+
+<adjp>::=<adj>|<adj> <adjp>
+
+<adj>::=big|fat|green|wonderful|faulty|subliminal|pretentious
+
+<n>::=classmate|fellow programmer|teacher
+<pn>::=you
+<vp>::=<tv> <np>|<iv>
+<tv>::=claims|asserts|says|contends|insists
+<iv>::=died|collapsed|laughed|wept
+<o>::=plagerized|copied|stole|borrowed
+<n2>::=code|a program|an assignment|test answers

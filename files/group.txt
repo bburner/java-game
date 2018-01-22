@@ -1,0 +1,16 @@
+<s>::=<pn> <vp> <do>
+<np>::=<dp> <adjp> <n>|<pn>
+
+<dp>::=a
+
+<adjp>::=<adj>|<adj> <adjp>
+
+<do>::=<dp> <adj> <n>
+<adj>::=group|pair programming
+
+<n>::=project|assignment|task
+<pn>::=You
+
+<vp>::=<av> <v>
+<av>::=have to|must|should
+<v>::=complete|work on|finish|do

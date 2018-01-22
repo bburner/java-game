@@ -1,0 +1,14 @@
+<s>::=<pp> <dp> <adj> <n> <o>
+
+<dp>::=The
+<adjp>::=<adj>|<adj> <adjp>
+
+<adj>::=office|work place|main
+<n>::=printer|network|copier|customer database|website
+<pn>::=Your
+
+<vp>::=<tv> <np>|<iv>
+<tv>::=have
+<iv>::=died|collapsed|laughed|wept
+<o>::=died|broke|exploded horribly|fell to pieces|was hacked by Russians
+<pp>::=At your internship,

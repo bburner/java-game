@@ -1,0 +1,8 @@
+<s>::=<pn> <o> <lv> <o2>
+<pn>::=My
+<vp>::=<tv> <o>|<iv>
+<tv>::=adore|love|enjoy
+<o>::=classmakes|group members
+<iv>::=<lv> <v>
+<lv>::=are
+<o2>::=stupid!|annyoing!|the rulers of douchlandia!|a few simicolons short of a working program!

@@ -1,0 +1,6 @@
+<s>::=<v1> <conj> <v2> <pp> <do>
+<v1>::=cheat|take the easy way out
+<conj>::=and
+<v2>::=copy|plagiarize|borrow|steal
+<pp>::=from
+<do>::=the internet|a friend|Josh

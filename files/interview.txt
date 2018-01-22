@@ -1,0 +1,11 @@
+<s>::=<pn> <tv> <dp> <adj> <o> <pp> <o2>
+<dp>::=a
+<adjp>::=<adj>|<adj> <adjp>
+
+<adj>::=major|key|first|second
+<pn>::=You
+<vp>::=<tv> <np>|<iv>
+<tv>::=have
+<o>::=interview
+<pp>::=with
+<o2>::=Microsoft.|Amazon.|Google.|Facebook.|Apple.|IBM.

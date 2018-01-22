@@ -1,0 +1,15 @@
+<s>::=<pn> <n> <o>
+
+<dp>::=the|a
+
+<adjp>::=<adj>|<adj> <adjp>
+
+<adj>::=big|fat|green|wonderful|faulty|subliminal|pretentious
+
+<n>::=computer|laptop|printer|wi-fi|router|monitor|hard drive|video card|motherboard
+<pn>::=Your
+
+<vp>::=<tv> <np>|<iv>
+<tv>::=have
+<iv>::=died|collapsed|laughed|wept
+<o>::=died|lost the will to live|broke|is possessed by electrical demons
